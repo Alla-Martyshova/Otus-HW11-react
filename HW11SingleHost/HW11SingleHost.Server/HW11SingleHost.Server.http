@@ -1,0 +1,6 @@
+@HW11SingleHost.Server_HostAddress = http://localhost:5101
+
+GET {{HW11SingleHost.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
